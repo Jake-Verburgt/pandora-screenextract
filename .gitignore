@@ -1,3 +1,5 @@
+params.json.mine
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
